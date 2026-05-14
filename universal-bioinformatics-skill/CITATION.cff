@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this skill in your research, please cite it as described below."
+title: "Universal Bioinformatics Research Skill"
+abstract: "A comprehensive, modular bioinformatics research skill built on the Agent Skills open standard, compatible with Claude Code and OpenAI Codex CLI. Provides structured workflows, templates, and examples for 12+ omics domains."
+version: 1.0.0
+type: software
+authors:
+  - name: "Bioinformatics Skills Community"
+repository-code: "https://github.com/bioinformatics-skills/universal-bioinformatics-skill"
+license: MIT
+keywords:
+  - bioinformatics
+  - transcriptomics
+  - proteomics
+  - metabolomics
+  - single-cell
+  - machine-learning
+  - multi-omics
+  - skill
+  - agent-skills
+date-released: "2025-05-14"
